@@ -3,3 +3,8 @@ Objects
 Listings
 *.uvguix.*
 *~
+.vs
+x64
+*.filters
+*.user
+.vscode
